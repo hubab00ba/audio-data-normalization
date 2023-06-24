@@ -20,7 +20,7 @@ are not provided, the script defaults to a frame rate of 44100 and a frame count
 audio files.
 
 ```bash
-python process_wav_files.py --frame-rate <desired_frame_rate> --frames-count <desired_frames_count>
+python main.py --frame-rate <desired_frame_rate> --frames-count <desired_frames_count>
 ```
 
 ## Requirements
